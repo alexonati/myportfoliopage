@@ -1,6 +1,6 @@
 # My portofolio webpage
 
-# A collection of the projects I've made. 
+# A simple page that shows the projects I've made. 
 
 https://alexonati.github.io/myportfoliopage/
 
